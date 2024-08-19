@@ -1,0 +1,7 @@
+.box-product{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 100%;
+}
